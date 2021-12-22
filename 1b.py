@@ -9,4 +9,4 @@ g=int(x)
 print(d*(g**2)+e*g+f)
 print(d*(g**5)+e*(g**3)+f)
 print((d*g+e)/(d*g-e))
-print(g-d/e+f)
+
